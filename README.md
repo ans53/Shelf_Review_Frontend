@@ -36,7 +36,7 @@ This is an [Expo](https://expo.dev) project created with [`create-expo-app`](htt
   <h2>📱 Platform</h2>
   <p>Cross-platform mobile app for Android and iOS devices.</p>
 
-
+<p align="center">
   
 ![1](https://github.com/user-attachments/assets/39c7e6df-edc8-4aff-b2b8-69318d777855)
 
@@ -82,7 +82,7 @@ This is an [Expo](https://expo.dev) project created with [`create-expo-app`](htt
 
 
 ![WhatsApp Image 2025-10-21 at 11 43 59_ede3c1b7](https://github.com/user-attachments/assets/a990d5d0-3d1e-471d-953a-250da9376c42)
-
+</p>
 
 
 
